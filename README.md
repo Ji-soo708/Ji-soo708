@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 #### 🪪 Certificate
-![aws-certified-developer-associate](https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60 | width=100)
+![aws-certified-developer-associate](https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60.png | width=100)
 
 </br></br>
 
