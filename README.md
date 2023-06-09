@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 #### 🪪 Certificate
-<img src = "https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60.png" width="30%" height="30%">
+<img src = "https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60.png" width="15%" height="15%">
 </br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-soo708)](https://github.com/Ji-soo708/github-readme-stats)
