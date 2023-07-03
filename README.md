@@ -12,8 +12,4 @@
 </br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-soo708)](https://github.com/Ji-soo708/github-readme-stats)
-<!--
-**Ji-soo708/Ji-soo708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+![snake gif](https://github.com/Ji-soo708/Ji-soo708/blob/output/github-contribution-grid-snake.svg)
