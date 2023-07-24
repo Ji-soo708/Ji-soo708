@@ -12,3 +12,5 @@
 </br></br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-soo708)](https://github.com/Ji-soo708/github-readme-stats)
+
+![snake gif](https://github.com/Ji-soo708/Ji-soo708/blob/output/github-contribution-grid-snake.svg)
