@@ -5,7 +5,7 @@
 <br>
 📚 I'm currently learning **Spring JPA**
 
-<br><br><br>
+<br><br>
 
 ## PROJECTS
 <div align="center">
