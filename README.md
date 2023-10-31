@@ -5,7 +5,7 @@
 <br>
 📚 I'm currently learning **Spring JPA**
 
-<br><br><br><br>
+<br><br><br>
 
 ## PROJECTS
 <div align="center">
@@ -32,7 +32,7 @@
   <br>
   🔗 https://github.com/eomkyeongho/UMC-master-course
 
-  <br><br><br><br>
+  <br><br><br>
 
   **🌱 2022 🌱**
   <br><br>
@@ -41,7 +41,7 @@
   🔗 https://github.com/Todoary/Todoary-Android
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ## CERTIFICATE
 <div style="text-align:center;">
