@@ -19,7 +19,7 @@
   🔗 https://github.com/mocacong/Mocacong-Backend
   <br><br>
 
-  🗺️ 약속 장소를 추천하고 코스를 만들어주는 애플리케이션, 어디카세 [Server] `2023.06 - ing`
+  🗺️ 약속 장소를 추천해주고 코스를 만들어주는 애플리케이션, 어디카세 [Server] `2023.06 - ing`
   <br>
   🔗 https://github.com/Eodikase/backend
   <br><br>
@@ -27,7 +27,7 @@
   🛠️ 건국대학교 학생 개발팀 2기 [Server] `2023.06 - 2023.08`
   <br><br>
 
-  🐽 소비 습관 형성에 도움을 주는 애플리케이션, 거꾸로 가계부 [Server] `2023.01 - 2023.02`
+  🐽 소비 습관 형성에 도움을 주는 가계부 애플리케이션, 거꾸로 가계부 [Server] `2023.01 - 2023.02`
   <br>
   🔗 https://github.com/eomkyeongho/UMC-master-course
 
