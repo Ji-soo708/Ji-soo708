@@ -3,7 +3,7 @@
 <br>
 ✏️ I studied at Seoul Women's Univ. Security `2019.03 - 2022.02`
 <br>
-📚 I'm currently learning **Spring JPA**
+📚 I'm currently learning **Spring JPA** `2023.03 - ing`
 
 <br><br>
 
