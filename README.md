@@ -7,7 +7,13 @@
 
 <br><br>
 
-## PROJECTS
+## EXPERIENCE
+1. 건국대학교 학생 개발팀 2기 [Server] `2023.06 - 2023.08`
+2. 디프만 14기 [Server] `2023.11 - ing`
+
+<br><br>
+
+## PROJECT
 <div align="center">
   
   **🌱 2023 🌱**
@@ -22,9 +28,6 @@
   🗺️ 약속 장소를 추천해주고 코스를 만들어주는 애플리케이션, 어디카세 [Server] `2023.06 - ing`
   <br>
   🔗 https://github.com/Eodikase/backend
-  <br><br>
-
-  🛠️ 건국대학교 학생 개발팀 2기 [Server] `2023.06 - 2023.08`
 
   <br><br><br>
 
