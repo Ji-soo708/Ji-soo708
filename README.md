@@ -5,13 +5,13 @@
 <br>
 📚 I'm currently learning **Spring Data JPA** `2023.03 - ing`
 
-<br><br>
+<br>
 
 ## EXPERIENCE
 1. 건국대학교 학생 개발팀 2기 [Server] `2023.06 - 2023.08`
 2. 디프만 14기 [Server] `2023.11 - ing`
 
-<br><br>
+<br>
 
 ## PROJECT
 <div align="center">
@@ -29,7 +29,7 @@
   <br>
   🔗 https://github.com/Eodikase/backend
 
-  <br><br><br>
+  <br><br>
 
   **🌱 2022 🌱**
   <br><br>
@@ -38,7 +38,7 @@
   🔗 https://github.com/Todoary/Todoary-Android
 </div>
 
-<br><br><br>
+<br><br>
 
 ## CERTIFICATE
 <div style="text-align:center;">
