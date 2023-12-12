@@ -24,7 +24,7 @@
   🔗 https://github.com/mocacong/Mocacong-Backend
   <br><br>
 
-  🗺️ 약속 장소를 추천해주고 코스를 만들어주는 애플리케이션, 어디카세 [Server] `2023.06 - ing`
+  🗺️ 약속 장소를 추천해주고 코스를 만들어주는 애플리케이션, 어디카세 [Server] `2023.06 - 2023.11`
   <br>
   🔗 https://github.com/Eodikase/backend
 
