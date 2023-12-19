@@ -4,7 +4,7 @@
 ✏️ I studied at Seoul Women's Univ. Security `2019.03 - 2022.02`
 <br>
 📚 I'm currently learning **Spring Data JPA** `2023.03 - ing`
-<br><br>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlawotn3)](https://solved.ac/dlawotn3/)
 <br><br>
