@@ -13,7 +13,7 @@
 1. 건국대학교 학생 개발팀 2기 [Server] `2023.06 - 2023.08`
 2. 디프만 14기 [Server] `2023.11 - ing`
 
-<br><br>
+<br>
 
 ## CERTIFICATE
 <div style="text-align:center;">
