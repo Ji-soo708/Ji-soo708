@@ -17,5 +17,5 @@
 
 ## CERTIFICATE
 <div style="text-align:center;">
-  <img src="https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60.png" width="15%" height="15%">
+  <img src="https://github.com/Ji-soo708/Ji-soo708/assets/69844138/9349fe86-95a8-4b6a-a08e-0fb71b606e60.png" width="18%" height="18%">
 </div>
