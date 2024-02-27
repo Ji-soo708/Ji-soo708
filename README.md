@@ -11,4 +11,4 @@
 
 ## EXPERIENCE
 1. 건국대학교 학생개발팀 2nd **Server** `2023.06 - 2023.08`
-2. Depromeet 14th **Server** `2023.11 - ing`
+2. Depromeet 14th **Server** `2023.11 - 2024.02`
