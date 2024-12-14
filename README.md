@@ -1,6 +1,11 @@
+## About Me
+🏫 I'm studying at Konkuk Univ. CSE `2022.03 - ing`
+<br><br>
+
 ## EXPERIENCE
 1. Depromeet 14th **Server** `2023.11 - 2024.02`
 2. 10th 9oormthon in JEJU **Server** `2024.05`
+3. Yapp 25th **Server** `2024.11 - 2025.03`
 <br><br>
 
 ## Awards
