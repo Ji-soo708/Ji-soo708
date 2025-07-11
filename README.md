@@ -3,10 +3,10 @@
 <br><br>
 
 ## EXPERIENCE
-1. Yapp 25th **Server** `2024.11 - 2025.03`
+1. Depromeet 14th **Server** `2023.11 - 2024.02`
 2. 10th 9oormthon in JEJU **Server** `2024.05`
-3. Depromeet 14th **Server** `2023.11 - 2024.02`
-
+3. Yapp 25th **Server** `2024.11 - 2025.03`
+4. Yapp 26th **CTO** `2025.04 - 2025.08`
 <br><br>
 
 ## Awards
