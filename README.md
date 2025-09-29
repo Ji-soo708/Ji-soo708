@@ -7,7 +7,6 @@
 <br>
 
 ## EXPERIENCE
-- **Yapp 26th (TL)** | 2025.04 - 2025.08
 - **Yapp 25th (Server)** | 2024.11 - 2025.03
 - **10th 9oormthon in JEJU (Server)** | 2024.05
 - **Depromeet 14th (Server)** | 2023.11 - 2024.02
