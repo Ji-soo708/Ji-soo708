@@ -2,10 +2,6 @@
 불편함 속에서 개선의 기회를 찾는 백엔드 개발자 임지수입니다.
 <br><br>
 
-## Work Place
-#### 당근 (daangn) | Backend Engineer Intern | 2025.08 - Present
-<br>
-
 ## EXPERIENCE
 - **Yapp 25th (Server)** | 2024.11 - 2025.03
 - **10th 9oormthon in JEJU (Server)** | 2024.05
